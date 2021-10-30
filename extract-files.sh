@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=beyond1lte
+DEVICE=beyond0lte
 VENDOR=samsung
 
 # Load extract_utils and do some sanity checks
